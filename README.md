@@ -21,13 +21,13 @@ conseils pour planter une plante spécifique.
 ## Algorigrammes :
 
 ### Algorigramme conversion Décimal vers Binaire :
-
+![binaire to decimal](https://github.com/trauchessec/Projet-Dev-logiciels-Plante-connectee/blob/master/binaire%20to%20decimal.png)
 ### Algorigramme Binaire vers Décimal :
-
+!Decimal to binaire](https://github.com/trauchessec/Projet-Dev-logiciels-Plante-connectee/blob/master/decimal%20to%20binaire.png)
 ### Algorigramme mémoire tampon :
-
+![tampon](https://github.com/trauchessec/Projet-Dev-logiciels-Plante-connectee/blob/master/memoire%20tampon.png)
 ## Programmes en C :
-
+![algo Cl](https://github.com/trauchessec/Projet-Dev-logiciels-Plante-connectee/blob/master/algo%20en%20C.png)
 ### Algorithme de lecture d’un fichier :
 
 L’ Arduino capte les valeurs de notre plante et les transmet au Raspberry via un fichier texte. Le Raspberry va ensuite lire les valeurs et les affichées grâce à ce programme. Ce programme en C nous permet de lire et d’afficher des chaines de caractères.
