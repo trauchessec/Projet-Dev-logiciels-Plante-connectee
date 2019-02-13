@@ -21,7 +21,7 @@ conseils pour planter une plante spécifique.
 ## Algorigrammes :
 
 ### Algorigramme conversion Décimal vers Binaire :
- 
+
 ### Algorigramme Binaire vers Décimal :
 
 ### Algorigramme mémoire tampon :
