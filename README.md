@@ -2,7 +2,7 @@
 
 
 
-## Descriptif du projet :
+# Descriptif du projet :
 
  
 
@@ -17,3 +17,22 @@ vous permettons de contrôler la croissance de vos plantes par le biais d’une
 application mobile ainsi que d’être alerter si les conditions de vos plantes
 deviennent critiques. De plus, nous vous proposons par cette application des
 conseils pour planter une plante spécifique.
+
+## Algorigrammes :
+
+### Algorigramme conversion Décimal vers Binaire :
+ 
+### Algorigramme Binaire vers Décimal :
+
+
+### Algorigramme mémoire tampon :
+
+ 
+## Programmes en C :
+
+
+### Algorithme de lecture d’un fichier :
+
+L’ Arduino capte les valeurs de notre plante et les transmet au Raspberry via un fichier texte. Le Raspberry va ensuite lire les valeurs et les affichées grâce à ce programme. Ce programme en C nous permet de lire et d’afficher des chaines de caractères.
+
+
