@@ -24,12 +24,9 @@ conseils pour planter une plante spécifique.
  
 ### Algorigramme Binaire vers Décimal :
 
-
 ### Algorigramme mémoire tampon :
 
- 
 ## Programmes en C :
-
 
 ### Algorithme de lecture d’un fichier :
 
